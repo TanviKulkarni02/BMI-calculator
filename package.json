@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "calculator_js",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "calculator.js",
+  "devDependencies": {},
+  "author": "tanvi",
+  "license": "ISC"
+}
